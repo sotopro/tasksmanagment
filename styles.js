@@ -20,7 +20,6 @@ export const styles = StyleSheet.create({
       borderRadius: 10,
       paddingHorizontal: 10,
       color: '#212121',
-      borderColor: '#424D9E',
       fontSize: 14,
     }
   });
